@@ -1,4 +1,4 @@
-frame_number,man/woman,emotion,year,movie_name
+frame_number,gender,emotion,year,movie_name
 28,woman,happy,2014,dedh_ishqiya
 62,woman,happy,2014,dedh_ishqiya
 60,man,angry,2014,dedh_ishqiya
