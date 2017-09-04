@@ -3,6 +3,13 @@ Extracting bias from movie trailers.
 
 ## Plots
 
+#### Gender/Emotion
+![plot 1](https://github.com/mayank26saxena/gender-bias-detection/blob/master/plots/gender-emotion.png)
+
+#### Crosstab
+![plot 1](https://github.com/mayank26saxena/gender-bias-detection/blob/master/plots/crosstab.png)
+![plot 1](https://github.com/mayank26saxena/gender-bias-detection/blob/master/plots/crosstab2.png)
+
 #### With Neutral
 ![plot 1](https://github.com/mayank26saxena/gender-bias-detection/blob/master/plots/with-neutral/emotions-years-LinePlot.png)
 
