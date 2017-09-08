@@ -1,6 +1,11 @@
 ## Plots for Paper
 The following plots are being used for the paper -
 
+
+### selected_woman_man_emotions_over_years 
+Selected emotions exhibited by man and woman over the 10 years
+![selected_woman_man_emotions_over_years](https://github.com/mayank26saxena/gender-bias-detection/blob/master/plots-for-paper/selected_woman_man_emotions_over_years.png)  
+
 ### pie_chart_emotions_man 
 Most common emotions exhibited by man over the 10 years
 ![pie_chart_emotions_man](https://github.com/mayank26saxena/gender-bias-detection/blob/master/plots-for-paper/pie_chart_emotions_man.png)  
