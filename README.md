@@ -9,8 +9,6 @@ The following plots are being used for the paper -
 The distribution of occurences of male vs female detections over the 10 years
 ![yearwise_malevsfemale](https://github.com/mayank26saxena/gender-bias-detection/blob/master/plots-for-paper/yearwise_malevsfemale.png)  
 
-CSV File - [yearwise_malevsfemale.csv](https://github.com/mayank26saxena/gender-bias-detection/blob/master/plots-for-paper/csv-files/yearwise_malevsfemale.csv)
-
 ---
 
 
